@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Anton-Chernyshov
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+pyfon
